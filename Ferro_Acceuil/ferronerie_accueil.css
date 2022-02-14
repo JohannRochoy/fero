@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "myFont";
+    src: url("./Hard\ Western.ttf");
+}
+
+*{
+    border: solid black 5px;
+}
+
+body{
+    background-color: #E6CFB1 ;
+}
+
+
+/* Header */
+
+.head1{
+    display : flex;
+    flex-flow: space-between;
+}
+
+.bookmark_bt_svg{
+}
+
+.home_bt_svg{
+}
+
+.login_bt_svg{
+
+}
+
+.usercircle_bt_svg{
+
+}
+
+
+/* Main */
+.logo1_svg{
+
+}
+
+.title_svg{
+
+}
+
+.style_line_svg{
+
+}
+
+.info_bt_svg{
+
+}
+
+.shop_bt_svg{
+
+}
+
+.contact_bt_svg{
+
+}
+
+.fero_draw_left{
+
+}
+
+.pc_ver{
+
+}
+
+
+

@@ -1,0 +1,67 @@
+/*
+*{
+    border: solid black 5px;
+}
+*/
+
+@import url(./HardWestern.ttf);
+
+
+body{
+    background-color: #E6CFB1 ;
+    height: 100vh;
+}
+header{
+    border-bottom: 5px #7B563F solid;
+}
+
+
+.sectionHead{
+    display : flex;
+    flex-flow: space-between;
+    justify-content: space-between;
+}
+
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.art1-text{
+    font-family: 'Hard Western';
+    color: #7B563F;
+    text-align: center;
+}
+
+.fer-svg{
+
+}
+
+.styleligne{
+    display: flex;
+    justify-content: center;
+}
+
+.forge-svg{
+
+}
+
+.art2-text{
+    font-family: 'Hard Western';
+    color: #7B563F;
+    text-align: center;
+}
+
+.pcver-svg{
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}

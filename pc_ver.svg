@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="59.456" viewBox="0 0 64 59.456">
+  <g id="Groupe_4" data-name="Groupe 4" transform="translate(-4 -989.989)">
+    <path id="tv" d="M37.742,0H3.06A3.2,3.2,0,0,0,0,3.324v22.16a3.2,3.2,0,0,0,3.06,3.324h15.3v2.216H7.14a1.067,1.067,0,0,0-1.02,1.108v2.216a1.067,1.067,0,0,0,1.02,1.108H33.662a1.067,1.067,0,0,0,1.02-1.108V32.132a1.067,1.067,0,0,0-1.02-1.108H22.441V28.808h15.3a3.2,3.2,0,0,0,3.06-3.324V3.324A3.2,3.2,0,0,0,37.742,0Zm-1.02,24.376H4.08V4.432H36.722Z" transform="translate(15.599 989.989)" fill="#7b563f"/>
+    <text id="version" transform="translate(36 1036.445)" fill="#7b563f" font-size="13" font-family="HardWestern, Hard Western"><tspan x="-20.665" y="0">version</tspan></text>
+    <text id="ordinateur" transform="translate(36 1046.445)" fill="#7b563f" font-size="13" font-family="HardWestern, Hard Western"><tspan x="-31.161" y="0">ordinateur</tspan></text>
+  </g>
+</svg>
